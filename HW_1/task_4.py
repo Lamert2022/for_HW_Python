@@ -8,4 +8,5 @@
 
 
 s = int(input())
-print((s//6), ((s//6)*4), (s//6))
+# print((s//6), ((s//6)*4), (s//6))
+print( var := s // 6, var * 4, var)
